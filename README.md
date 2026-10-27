@@ -1,4 +1,3 @@
-
 # Tarea Individual 2 – Reubicación de estaciones de gasolina en Seattle
 
 **Curso:** Introducción a la Ciencia de Datos Espaciales
@@ -9,4 +8,4 @@ Análisis espacial de las estaciones de gasolina de Seattle para identificar aqu
 
 ### Google Colab
 
-[Ver trabajo completo en Google Colab]([https://colab.research.google.com/drive/1kwbjsaocUehNeED_1RYFwXruIFLaOVPR](https://colab.research.google.com/drive/1kwbjsaocUehNeED_1RYFwXruIFLaOVPR?usp=sharing))
+[Ver trabajo completo en Google Colab](https://colab.research.google.com/drive/1kwbjsaocUehNeED_1RYFwXruIFLaOVPR?usp=sharing)
